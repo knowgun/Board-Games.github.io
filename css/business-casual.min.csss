@@ -17,11 +17,3 @@ h1.text-primary{
 	letter-spacing:-0.05rem;	
 	line-height:3rem;
 }
-.bg-primary{
-	background-color: #0052f7! important;
-background-image: url("https://www.transparenttextures.com/patterns/fresh-snow.png");
-}
-
-.text-primary{
-	color:#0088ff! important;
-}
