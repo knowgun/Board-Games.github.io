@@ -1,0 +1,19 @@
+body{ 
+ font-family: 'Noto Sans SC', sans-serif;
+ }
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Noto Sans SC', sans-serif;
+	text-transform:none；
+}
+ 
+.subheading{
+	font-family: 'Noto Sans SC', sans-serif;
+	font-size: 1.2rem;
+	text-transform: none;
+	letter-spacing: -0.05rem;
+}
+h1.text-primary{
+	font-size:3rem;
+	letter-spacing:-0.05rem;	
+	line-height:3rem;
+}
